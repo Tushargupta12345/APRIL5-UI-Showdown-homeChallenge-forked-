@@ -8,3 +8,18 @@ Requirements:
 - Code must be clean and utilize React best practices. No code smells should be present
 - Do NOT modify any files other than `/pages/index.tsx`
 - Do NOT use AI to generate your submission
+
+
+
+## 📌 My Submission (Tushar Gupta)
+
+This is my implementation of the April 5 - UI Showdown Quest challenge.
+
+### ✅ What I Did
+- Implemented design from the reference video
+- Used Framer Motion, Recharts, and React Icons
+- Only modified `/pages/index.tsx` as required
+
+### 📁 Repo Info
+- Forked from original template
+- For portfolio/demo purpose only
